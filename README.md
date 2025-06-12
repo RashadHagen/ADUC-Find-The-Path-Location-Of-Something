@@ -110,7 +110,7 @@ This project goes over how to find the path location of something in Active Dire
 
 
 <div style="text-align:center;">
-  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Type: The user’s name. Press: Find Now.</b></span>  
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Type: The object’s (thing you are looking for) name. Press: Find Now.</b></span>  
 <br/>
 
 <table>
